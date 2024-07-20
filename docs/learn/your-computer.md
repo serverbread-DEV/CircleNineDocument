@@ -13,7 +13,7 @@
 - 主板（motherboard）
 - CPU
 - 显卡（GPU）
-- 内存（RAM）Monocraft,
+- 内存（RAM）
 - 硬盘（DISK）
 - 电源（POWER）
 

@@ -1,0 +1,10 @@
+node_modules
+
+yarn.lock
+
+.vitepress/cache
+
+.vitepress/dist
+
+favicon.ico.kra
+
