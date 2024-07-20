@@ -10,7 +10,7 @@
 - 显示器
 
 内设：
-- 主板（mainboard）
+- 主板（motherboard）
 - CPU
 - 显卡（GPU）
 - 内存（RAM）Monocraft,
