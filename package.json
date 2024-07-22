@@ -8,5 +8,8 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "nginx": "sudo rm -r /usr/share/nginx/html && sudo mkdir -p /usr/share/nginx/html && sudo cp -r .vitepress/dist/* /usr/share/nginx/html && sudo nginx -s reload"
+  },
+  "dependencies": {
+    "vercel": "^35.1.0"
   }
 }
