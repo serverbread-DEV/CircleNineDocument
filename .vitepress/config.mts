@@ -20,7 +20,8 @@ export default {
           { text: '如何提问', link: '/docs/before-start/how-to-ask' },
           { text: '名词列表', link: '/docs/before-start/term-list' },
           { text: '===开始学习===' },
-          { text: '你的电脑', link: '/docs/learn/your-computer'}
+          { text: '你的电脑', link: '/docs/learn/your-computer'},
+          { text: '什么是文件', link: '/docs/learn/what-is-file'}
         ]
       }
     ],
