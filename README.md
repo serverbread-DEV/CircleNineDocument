@@ -48,3 +48,8 @@ npm run docs:dev
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
+
+
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/serverbread-DEV/CircleNineDocument.svg?background=%230d1117&axis=%23333333&line=%236b63ff)](https://starchart.cc/serverbread-DEV/CircleNineDocument)
