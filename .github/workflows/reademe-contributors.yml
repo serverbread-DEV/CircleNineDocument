@@ -1,7 +1,9 @@
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
+
 name: Generate a list of contributors
 jobs:
   contrib-readme-en-job:
