@@ -6,6 +6,12 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '.vitepress/config.mts'
+      - 'docs/**'
+      - 'public/**'
+      - 'index.md'
+      - 'package.json'
 jobs:
   Deploy-Preview:
     runs-on: ubuntu-latest
