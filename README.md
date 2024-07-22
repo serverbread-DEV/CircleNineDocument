@@ -16,3 +16,8 @@ npm run docs:dev
 启动开发模式。
 
 完成你的更改并预览完成后请将你的更改 commit 并推送到你的 fork，然后打开一个 Pull Request。
+
+
+## 贡献者
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
