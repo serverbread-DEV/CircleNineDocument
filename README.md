@@ -1,3 +1,13 @@
+<div align="center">
+  <div>
+    <img src="/public/favicon.ico" alt="AiNi❤️" />
+  </div>
+  <b>
+    CircleNineDocument
+  </b>
+</div>
+
+
 # CircleNineDocument
 
 简单的galgame小白入门全指南。
