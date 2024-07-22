@@ -21,7 +21,8 @@ export default {
           { text: '名词列表', link: '/docs/before-start/term-list' },
           { text: '===开始学习===' },
           { text: '你的电脑', link: '/docs/learn/your-computer'},
-          { text: '什么是文件', link: '/docs/learn/what-is-file'}
+          { text: '什么是文件', link: '/docs/learn/what-is-file'},
+          { text: '如何解压', link: '/docs/learn/how-to-unarchive'},
         ]
       }
     ],
