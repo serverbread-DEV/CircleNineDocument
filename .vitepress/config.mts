@@ -3,6 +3,10 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default {
   lang: "zh-Hans",
+  markdown: {
+    //行号显示
+    lineNumbers: true, //false关闭
+  },
   title: "Circle Nine Document",
   description: "小白专用galgame游玩电子扫盲文档",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
@@ -16,6 +20,7 @@ export default {
         text: 'CircleNineDoc',
         items: [
           { text: '介绍', link: '/docs/intro' },
+          { text: '贡献指南', link: '/docs/contribute' },
           { text: '===在开始之前===' },
           { text: '如何提问', link: '/docs/before-start/how-to-ask' },
           { text: '名词列表', link: '/docs/before-start/term-list' },
