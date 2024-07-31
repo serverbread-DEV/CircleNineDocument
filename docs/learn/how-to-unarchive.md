@@ -10,7 +10,7 @@ Windows10 系统支持直接打开 `.zip` 格式的压缩包，但是对 `.rar`�
 
 _注意：WinRAR 是付费软件，有能力请支持正版。_
 
-下载这两个软件请分别到 [WinRAR 的官网](https：//www.rarlab.com/download.htm)和 [7Zip 的官网](https：//7-zip.org/)下载。
+下载这两个软件请分别到 [WinRAR 的官网](https://www.rarlab.com/download.htm)和 [7Zip 的官网](https://7-zip.org/)下载。
 
 安装下载完成后，7Zip 不会自动关联 `.7z` 后缀文件，你可能需要手动关联他们。关于如何关联文件，请跳转到 [这里](#如何关联文件)
 
