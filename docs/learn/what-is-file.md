@@ -41,3 +41,5 @@
 ```batch
 notepad.exe C:\Users\LiHua\Desktop\example.txt
 ```
+
+参见：[什么是exe（可执行文件）](/docs/learn/what-is-exe.html)
