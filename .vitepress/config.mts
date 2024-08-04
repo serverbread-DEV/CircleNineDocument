@@ -26,13 +26,14 @@ export default {
           { text: '名词列表', link: '/docs/before-start/term-list' },
           { text: '其它', link: '/docs/before-start/other' },
           { text: '===开始学习===' },
-          { text: '你的电脑', link: '/docs/learn/your-computer'},
-          { text: '什么是文件', link: '/docs/learn/what-is-file'},
+          { text: '你的电脑', link: '/docs/learn/your-computer' },
           { text: '常用软件的使用方法', link: '/docs/learn/common-software' },
-          { text: '有关链接', link: '/docs/learn/about-link' },
-          { text: '如何正确在网络上检索信息', link: '/docs/learn/how-to-search'},
-          { text: '如何解压', link: '/docs/learn/how-to-unarchive'},
-          { text: '如何打补丁', link: '/docs/learn/how-to-patch'},
+          { text: '什么是文件', link: '/docs/learn/what-is-file' },
+          { text: '什么是exe（可执行文件）', link: '/docs/learn/what-is-exe' },
+          { text: '如何正确在网络上检索信息', link: '/docs/learn/how-to-search' },
+          { text: '如何解压', link: '/docs/learn/how-to-unarchive' },
+          { text: '如何打补丁', link: '/docs/learn/how-to-patch' },
+
         ]
       }
     ],
