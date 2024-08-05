@@ -10,15 +10,15 @@
 
 解密的方法其实非常简单，只需要搜索与熊论道或者点击 [链接](http://hi.pcmoe.net/) 前往。
 
-![截图](/imgs/2024-07-27/Ne0Jd2P6ZDmBzzUP.png)
+![截图](/about-link/1.png)
 
 将加密信息输入
 
-![输入图片说明](/imgs/2024-07-27/ZL77HJBwtNUzvm2m.png)
+![输入图片说明](/about-link/2.png)
 
 点击
 
-![输入图片说明](/imgs/2024-07-27/d2NroJMqiP4kIL5j.png)
+![输入图片说明](/about-link/3.png)
 
 即可完成解密。
 
@@ -31,9 +31,9 @@
 
 所以也明显是和熊曰同属一类的加密，在[熊曰](http://hi.pcmoe.net/)的顶部导航栏里存在一个兽音解密，将所得的加密链接输入。
 
-![输入图片说明](/imgs/2024-07-27/7Qy0959pNlVsGXhL.png)
+![输入图片说明](/about-link/4.png)
 
-![输入图片说明](/imgs/2024-07-27/2ni3PvOeg0i9AIR1.png)
+![输入图片说明](/about-link/5.png)
 
 解密即可得到原有链接。
 
@@ -52,26 +52,26 @@ _ps：这不是有效资源，是笔者按照格式乱打的链接，所以不�
 
 安装完毕后打开软件，你会看见这样的界面，此处推荐读者按照笔者提供的步骤来设置。
 
-![输入图片说明](/imgs/2024-07-27/WNVGCxg8mMkL9ORJ.png)
+![输入图片说明](/about-link/6.png)
 
 如果界面是英文，点击齿轮可以打开设置。
 
-![输入图片说明](/imgs/2024-07-27/43JN8ch51796SA0L.png)
+![输入图片说明](/about-link/7.png)
 
-![输入图片说明](/imgs/2024-07-27/WbB2Sqiuq000nswn.png)
+![输入图片说明](/about-link/8.png)
 
 
 设置完毕后我们来着手配置 `tracker`。对于 `tracker`，你需要获取一些服务器的列表来帮助你加速。你可以在网络上试着自己搜索（如果不会就去把之前的教程再好好看两遍），**本文不提供链接**。
 
 在获取到连接之后，在 “将以下trackers添加到新的任务中” 下面一栏中输入你获取的链接，点击确认即可。
 
-![输入图片说明](/imgs/2024-07-27/vaXpCxLfcKZ1fRt2.png)
+![输入图片说明](/about-link/9.png)
 
-![输入图片说明](/imgs/2024-07-27/ituuAyuSqIkxuBXI.png)
+![输入图片说明](/about-link/10.png)
 
 回到主页面，点击这里即可开始任务的下载，
 
-![输入图片说明](/imgs/2024-07-27/r9MDenKIqKZf7Fic.png)
+![输入图片说明](/about-link/11.png)
 
 等待下载完成即可。
 
