@@ -48,7 +48,7 @@ export default {
         },
         link: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6rR8CJYRwNXXWzGid-tS8E8PuLhjIGqE&authKey=CNQgQ7HpgysmlqXDdQU%2FlFX2mOU4OWJd6mGHCoYGQBJK1vcPOijlLx9Gt6El0gbV&noverify=0&group_code=389113592'
       },
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/serverbread-DEV/CircleNineDocument' }
     ]
   }
 }
