@@ -32,8 +32,9 @@ export default {
           { text: '什么是exe（可执行文件）', link: '/docs/learn/what-is-exe' },
           { text: '如何正确在网络上检索信息', link: '/docs/learn/how-to-search' },
           { text: '如何解压', link: '/docs/learn/how-to-unarchive' },
+          { text: '分享资源的常见方式', link: '/docs/learn/common-ways-2-share-resources' },
           { text: '如何打补丁', link: '/docs/learn/how-to-patch' },
-
+          { text: '了解C盘结构', link: '/docs/learn/structure-of-drive-C' },
         ]
       }
     ],
@@ -48,7 +49,7 @@ export default {
         },
         link: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6rR8CJYRwNXXWzGid-tS8E8PuLhjIGqE&authKey=CNQgQ7HpgysmlqXDdQU%2FlFX2mOU4OWJd6mGHCoYGQBJK1vcPOijlLx9Gt6El0gbV&noverify=0&group_code=389113592'
       },
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/serverbread-DEV/CircleNineDocument' }
     ]
   }
 }
