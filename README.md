@@ -45,6 +45,13 @@ npm run docs:dev
             <br />
             <sub><b>SB-Reborn</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/neokoni">
+            <img src="https://avatars.githubusercontent.com/u/90206655?v=4" width="100;" alt="neokoni"/>
+            <br />
+            <sub><b>Neokoni</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
