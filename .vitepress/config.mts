@@ -33,6 +33,7 @@ export default {
           { text: '如何解压', link: '/docs/learn/how-to-unarchive' },
           { text: '分享资源的常见方式', link: '/docs/learn/common-ways-2-share-resources' },
           { text: '如何打补丁', link: '/docs/learn/how-to-patch' },
+          { text: '了解C盘结构', link: '/docs/learn/structure-of-drive-C' },
         ]
       }
     ],
