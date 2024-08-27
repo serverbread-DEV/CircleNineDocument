@@ -47,6 +47,13 @@ npm run docs:dev
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/31415926271828">
+            <img src="https://avatars.githubusercontent.com/u/76948708?v=4" width="100;" alt="31415926271828"/>
+            <br />
+            <sub><b>甜品级死亡</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/neokoni">
             <img src="https://avatars.githubusercontent.com/u/90206655?v=4" width="100;" alt="neokoni"/>
             <br />
