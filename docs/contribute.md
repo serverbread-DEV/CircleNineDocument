@@ -2,7 +2,9 @@
 
 下面是一些贡献时需要注意的格式要求~
 
-本文档markdown的各类语法可以参照 [VitePress 的文档](https://vitepress.yiov.top/markdown.html)
+本文档markdown的各类语法可以参照 [VitePress 的文档](https://vitepress.yiov.top/markdown.html)。
+
+Markdown 语法应遵守[此处](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#rules--aliases)的规则。
 
 ## 格式
 
