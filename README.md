@@ -3,6 +3,9 @@
 简单的galgame小白入门全指南。
 认真看完，笨蛋变高手！
 
+<!-- markdownlint-disable line-length -->
+<!-- markdownlint-disable no-inline-html -->
+
 <div align="center">
   <div>
     <img src="/public/favicon.ico" alt="AiNi❤️" />
@@ -11,6 +14,9 @@
     CircleNineDocument
   </b>
 </div>
+
+**注意！**此仓库可能出现长时间未更新的情况，但这不代表我放弃了这个项目，如果你认为有地方可以更改，请尽管提交Issue和PR，
+我会在周末检查它们。
 
 ## 如何贡献？
 
